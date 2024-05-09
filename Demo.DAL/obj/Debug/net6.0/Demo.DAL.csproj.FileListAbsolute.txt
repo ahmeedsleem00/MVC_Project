@@ -1,0 +1,14 @@
+E:\Back-End\New folder\Ahmed Ehab Gaafar Ahmed Sleem - C41 Mon&Thu 2-5PM - Offline - Doukki- Assignment MVC 06\Demo.DAL\bin\Debug\net6.0\Demo.DAL.deps.json
+E:\Back-End\New folder\Ahmed Ehab Gaafar Ahmed Sleem - C41 Mon&Thu 2-5PM - Offline - Doukki- Assignment MVC 06\Demo.DAL\bin\Debug\net6.0\Demo.DAL.runtimeconfig.json
+E:\Back-End\New folder\Ahmed Ehab Gaafar Ahmed Sleem - C41 Mon&Thu 2-5PM - Offline - Doukki- Assignment MVC 06\Demo.DAL\bin\Debug\net6.0\Demo.DAL.dll
+E:\Back-End\New folder\Ahmed Ehab Gaafar Ahmed Sleem - C41 Mon&Thu 2-5PM - Offline - Doukki- Assignment MVC 06\Demo.DAL\bin\Debug\net6.0\Demo.DAL.pdb
+E:\Back-End\New folder\Ahmed Ehab Gaafar Ahmed Sleem - C41 Mon&Thu 2-5PM - Offline - Doukki- Assignment MVC 06\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.AssemblyReference.cache
+E:\Back-End\New folder\Ahmed Ehab Gaafar Ahmed Sleem - C41 Mon&Thu 2-5PM - Offline - Doukki- Assignment MVC 06\Demo.DAL\obj\Debug\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Back-End\New folder\Ahmed Ehab Gaafar Ahmed Sleem - C41 Mon&Thu 2-5PM - Offline - Doukki- Assignment MVC 06\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+E:\Back-End\New folder\Ahmed Ehab Gaafar Ahmed Sleem - C41 Mon&Thu 2-5PM - Offline - Doukki- Assignment MVC 06\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfo.cs
+E:\Back-End\New folder\Ahmed Ehab Gaafar Ahmed Sleem - C41 Mon&Thu 2-5PM - Offline - Doukki- Assignment MVC 06\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+E:\Back-End\New folder\Ahmed Ehab Gaafar Ahmed Sleem - C41 Mon&Thu 2-5PM - Offline - Doukki- Assignment MVC 06\Demo.DAL\obj\Debug\net6.0\Demo.DAL.dll
+E:\Back-End\New folder\Ahmed Ehab Gaafar Ahmed Sleem - C41 Mon&Thu 2-5PM - Offline - Doukki- Assignment MVC 06\Demo.DAL\obj\Debug\net6.0\refint\Demo.DAL.dll
+E:\Back-End\New folder\Ahmed Ehab Gaafar Ahmed Sleem - C41 Mon&Thu 2-5PM - Offline - Doukki- Assignment MVC 06\Demo.DAL\obj\Debug\net6.0\Demo.DAL.pdb
+E:\Back-End\New folder\Ahmed Ehab Gaafar Ahmed Sleem - C41 Mon&Thu 2-5PM - Offline - Doukki- Assignment MVC 06\Demo.DAL\obj\Debug\net6.0\Demo.DAL.genruntimeconfig.cache
+E:\Back-End\New folder\Ahmed Ehab Gaafar Ahmed Sleem - C41 Mon&Thu 2-5PM - Offline - Doukki- Assignment MVC 06\Demo.DAL\obj\Debug\net6.0\ref\Demo.DAL.dll

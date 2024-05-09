@@ -1,0 +1,15 @@
+E:\Back-End\New folder\Ahmed Ehab Gaafar Ahmed Sleem - C41 Mon&Thu 2-5PM - Offline - Doukki- Assignment MVC 06\Demo.BLL\bin\Debug\net6.0\Demo.BLL.deps.json
+E:\Back-End\New folder\Ahmed Ehab Gaafar Ahmed Sleem - C41 Mon&Thu 2-5PM - Offline - Doukki- Assignment MVC 06\Demo.BLL\bin\Debug\net6.0\Demo.BLL.dll
+E:\Back-End\New folder\Ahmed Ehab Gaafar Ahmed Sleem - C41 Mon&Thu 2-5PM - Offline - Doukki- Assignment MVC 06\Demo.BLL\bin\Debug\net6.0\Demo.BLL.pdb
+E:\Back-End\New folder\Ahmed Ehab Gaafar Ahmed Sleem - C41 Mon&Thu 2-5PM - Offline - Doukki- Assignment MVC 06\Demo.BLL\bin\Debug\net6.0\Demo.DAL.dll
+E:\Back-End\New folder\Ahmed Ehab Gaafar Ahmed Sleem - C41 Mon&Thu 2-5PM - Offline - Doukki- Assignment MVC 06\Demo.BLL\bin\Debug\net6.0\Demo.DAL.pdb
+E:\Back-End\New folder\Ahmed Ehab Gaafar Ahmed Sleem - C41 Mon&Thu 2-5PM - Offline - Doukki- Assignment MVC 06\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.AssemblyReference.cache
+E:\Back-End\New folder\Ahmed Ehab Gaafar Ahmed Sleem - C41 Mon&Thu 2-5PM - Offline - Doukki- Assignment MVC 06\Demo.BLL\obj\Debug\net6.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Back-End\New folder\Ahmed Ehab Gaafar Ahmed Sleem - C41 Mon&Thu 2-5PM - Offline - Doukki- Assignment MVC 06\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfoInputs.cache
+E:\Back-End\New folder\Ahmed Ehab Gaafar Ahmed Sleem - C41 Mon&Thu 2-5PM - Offline - Doukki- Assignment MVC 06\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfo.cs
+E:\Back-End\New folder\Ahmed Ehab Gaafar Ahmed Sleem - C41 Mon&Thu 2-5PM - Offline - Doukki- Assignment MVC 06\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CoreCompileInputs.cache
+E:\Back-End\New folder\Ahmed Ehab Gaafar Ahmed Sleem - C41 Mon&Thu 2-5PM - Offline - Doukki- Assignment MVC 06\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CopyComplete
+E:\Back-End\New folder\Ahmed Ehab Gaafar Ahmed Sleem - C41 Mon&Thu 2-5PM - Offline - Doukki- Assignment MVC 06\Demo.BLL\obj\Debug\net6.0\Demo.BLL.dll
+E:\Back-End\New folder\Ahmed Ehab Gaafar Ahmed Sleem - C41 Mon&Thu 2-5PM - Offline - Doukki- Assignment MVC 06\Demo.BLL\obj\Debug\net6.0\refint\Demo.BLL.dll
+E:\Back-End\New folder\Ahmed Ehab Gaafar Ahmed Sleem - C41 Mon&Thu 2-5PM - Offline - Doukki- Assignment MVC 06\Demo.BLL\obj\Debug\net6.0\Demo.BLL.pdb
+E:\Back-End\New folder\Ahmed Ehab Gaafar Ahmed Sleem - C41 Mon&Thu 2-5PM - Offline - Doukki- Assignment MVC 06\Demo.BLL\obj\Debug\net6.0\ref\Demo.BLL.dll
